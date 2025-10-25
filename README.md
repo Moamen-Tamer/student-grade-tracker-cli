@@ -231,9 +231,9 @@ Course Statistics:
 ```
 student-grade-tracker/
 ├── src/
-│   ├── students.ts          # Interfaces, types, and error classes
+│   ├── cli.ts               # User interface and interaction flows
 │   ├── studentTracker.ts    # Core business logic and data management
-│   └── cli.ts               # User interface and interaction flows
+│   ├── students.ts          # Interfaces, types, and error classes
 ├── README.md                # This file
 ├── package.json             # Dependencies and scripts
 └── tsconfig.json            # TypeScript configuration
