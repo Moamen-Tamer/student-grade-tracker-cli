@@ -234,9 +234,9 @@ student-grade-tracker/
 │   ├── students.ts          # Interfaces, types, and error classes
 │   ├── studentTracker.ts    # Core business logic and data management
 │   └── cli.ts               # User interface and interaction flows
+├── README.md                # This file
 ├── package.json             # Dependencies and scripts
-├── tsconfig.json            # TypeScript configuration
-└── README.md                # This file
+└── tsconfig.json            # TypeScript configuration
 ```
 
 ### Module Breakdown
